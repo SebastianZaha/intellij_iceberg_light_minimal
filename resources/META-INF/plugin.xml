@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>iceberg_light_minimal</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -33,7 +33,7 @@
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="iceberg_light_minimal" path="/theme/iceberg_light_minimal.theme.json"/>
-        <bundledColorScheme path="/theme/editor"/>
+        <themeProvider id="iceberg_light_minimal" path="/iceberg_light_minimal.theme.json"/>
+        <bundledColorScheme path="/editor_scheme"/>
     </extensions>
 </idea-plugin>

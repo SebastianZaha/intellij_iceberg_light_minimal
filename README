@@ -1,0 +1,8 @@
+A simplification of the default light theme, with a gray background.
+Colors inspired from the light version of the
+<i>iceberg</i> vim theme by <i>cocopon</i>.
+
+The goal is to have a small number of colors in correct sourcecode:
+currently only <i>keywords</i> and <i>string/int literals</i>.
+
+Tested in GoLand, where I already removed many of the colors in *.go files.

@@ -1,10 +1,10 @@
-<scheme name="IntelliJ Light Minimal" version="142" parent_scheme="Default">
+<scheme name="Iceberg Light Minimal" version="143" parent_scheme="Default">
   <metaInfo>
     <property name="created">2022-08-31T13:28:45</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2022.2.2.0.0</property>
     <property name="modified">2022-08-31T13:28:47</property>
-    <property name="originalScheme">IntelliJ Light Minimal</property>
+    <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
